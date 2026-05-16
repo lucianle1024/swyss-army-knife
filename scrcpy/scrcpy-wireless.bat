@@ -1,1 +1,0 @@
-scrcpy --max-size 1280 --video-bit-rate 10M --max-fps 60
